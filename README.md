@@ -1,5 +1,5 @@
 # Sudoku
-This program solves the sudoku in C and Python using a backtracking algorithm.
+This program solves the sudoku in C, Python and Java using a backtracking algorithm.
 This program solves any sudoku that is inputed.
 
 # What I Learned
